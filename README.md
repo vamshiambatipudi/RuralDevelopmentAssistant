@@ -50,7 +50,7 @@ The system focuses on accessibility, ease of use, and offline support for users 
 ---
 
 ## ⚙️ Installation & Setup
-
+```bash
 1️⃣ Clone the repository
 git clone https://github.com/your-username/rural-development-assistant.git
 cd rural-development-assistant
