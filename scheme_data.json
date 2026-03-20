@@ -1,0 +1,18 @@
+[
+    {
+        "name": "PM Kisan",
+        "description": "₹6000 per year for farmers in 3 installments."
+    },
+    {
+        "name": "Ayushman Bharat",
+        "description": "₹5 lakh health insurance per family per year."
+    },
+    {
+        "name": "Skill India",
+        "description": "Free skill training for rural youth."
+    },
+    {
+        "name": "MNREGA",
+        "description": "100 days guaranteed wage employment per year."
+    }
+]
