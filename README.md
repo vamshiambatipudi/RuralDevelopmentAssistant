@@ -12,25 +12,30 @@ Objectives
 * Improve rural digital accessibility
 
 Features
+
 🌱 Crop Recommendation
 * AI-based crop suggestion
 * Soil type analysis
 * Season-based recommendations
 == Top 3 crop suggestions
+
 🏛️ Government Schemes
 * Farmer schemes
 * Women empowerment schemes
 * Youth skill schemes
 * Senior citizen benefits
+
 💼 Jobs Portal
 * Skill-based job filtering
 * Category-based jobs
 * Job application system
 * Resume submission
+
 🏥 Telemedicine Chatbot
 * AI health suggestions
 * Multi-language support
 * Basic medical advice
+
 🌦️ Weather Forecast
 * Real-time weather data
 * Temperature
