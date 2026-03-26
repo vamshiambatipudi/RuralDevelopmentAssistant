@@ -1,5 +1,7 @@
 🌾 Rural Development Assistant (RDA)
+
 Project Overview:
+
 Rural Development Assistant (RDA) is an AI-Powered Web Application designed to support rural communities by providing intelligent services such as Crop Recommendation, Government Schemes, Job Opportunities, Telemedicine, and Weather Forecasting.
 The system helps farmers, youth, and rural citizens make data-driven decisions for better livelihood and development.
 
